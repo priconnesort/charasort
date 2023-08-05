@@ -566,4 +566,5 @@ dataSet[dataSetVersion].characterData = [
     img: "06tfvz.webp",
     opts: { Guild: ["other"] }
   }
+	
 ];
