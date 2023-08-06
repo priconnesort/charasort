@@ -28,6 +28,7 @@ dataSet[dataSetVersion].options = [
 	  { name: "Rage Legion", key: "rage" },
 	  { name: "Alter Maiden", key: "alter" },
 	  { name: "Geo Theogonia", key: "geo" },
+ 	  { name: "Manaria Friends", key: "manaria" },
 	  { name: "unaffiliated", key: "other" },
 	  { name: "collabs", key: "collab" }
     ]
@@ -456,49 +457,49 @@ dataSet[dataSetVersion].characterData = [
   {
     name: "Djeeta",
     img: "l442xw.webp",
-    opts: { Guild: ["collab"] }
+    opts: { Guild: ["other"] }
   },
   
   {
     name: "Vikala",
     img: "4beg15.webp",
-    opts: { Guild: ["collab"] }
+    opts: { Guild: ["other"] }
   },
   
   {
     name: "Arisa",
     img: "ak03h3.webp",
-    opts: { Guild: ["collab"] }
+    opts: { Guild: ["other"] }
   },
   
   {
     name: "Luna",
     img: "9y6g2h.webp",
-    opts: { Guild: ["collab"] }
+    opts: { Guild: ["other"] }
   },
   
   {
     name: "Lou",
     img: "vgj7j6.webp",
-    opts: { Guild: ["collab"] }
+    opts: { Guild: ["manaria"] }
   },
   
   {
     name: "Anne",
     img: "5va9dz.webp",
-    opts: { Guild: ["collab"] }
+    opts: { Guild: ["manaria"] }
   },
   
   {
     name: "Grea",
     img: "y7bxa6.webp",
-    opts: { Guild: ["collab"] }
+    opts: { Guild: ["manaria"] }
   },
   
   {
     name: "Vampy",
     img: "ixhvhw.webp",
-    opts: { Guild: ["collab"] }
+    opts: { Guild: ["other"] }
   },
   
   {
