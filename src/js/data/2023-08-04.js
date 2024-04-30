@@ -28,6 +28,7 @@ dataSet[dataSetVersion].options = [
 	  { name: "Rage Legion", key: "rage" },
 	  { name: "Alter Maiden", key: "alter" },
 	  { name: "Geo Theogonia", key: "geo" },
+	  { name: "Geo Gehenna", key: "geoge" },
 	  { name: "unaffiliated", key: "other" },
 	  { name: "collabs", key: "collab" }
     ]
@@ -583,5 +584,15 @@ dataSet[dataSetVersion].characterData = [
     name: "Precia",
     img: "ddd8om.webp",
     opts: { Guild: ["alter"] }
-  }
+  },
+{
+    name: "Eris",
+    img: "cup33o.png",
+    opts: { Guild: ["other"] }
+  },
+{
+    name: "Anemone",
+    img: "7iqop5.png",
+    opts: { Guild: ["geoge"] }
+  }	
 ];
