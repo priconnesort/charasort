@@ -594,5 +594,15 @@ dataSet[dataSetVersion].characterData = [
     name: "Anemone",
     img: "7iqop5.png",
     opts: { Guild: ["geoge"] }
+  },	
+{
+    name: "Kururu",
+    img: "dqof1c.png",
+    opts: { Guild: ["geo"] }
+  },	
+{
+    name: "Nephi=Nela",
+    img: "dvnju5.png",
+    opts: { Guild: ["geoge"] }
   }	
 ];
